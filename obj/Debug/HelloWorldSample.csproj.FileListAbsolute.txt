@@ -1,0 +1,7 @@
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\bin\Debug\HelloWorldSample.exe.config
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\bin\Debug\HelloWorldSample.exe
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\bin\Debug\HelloWorldSample.pdb
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\obj\Debug\HelloWorldSample.csprojAssemblyReference.cache
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.CoreCompileInputs.cache
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\obj\Debug\HelloWorldSample.exe
+C:\Users\cfields\Documents\Software Guild\Repos\Classwork\HelloWorldSample\HelloWorldSample\obj\Debug\HelloWorldSample.pdb
